@@ -1,0 +1,44 @@
+{
+  "senior_python_backend.txt": [
+    "resumes/resume_meera_krishnan.txt",
+    "resumes/resume_arjun_menon.docx",
+    "resumes/resume_lakshmi_narayan.pdf",
+    "resumes/resume_harish_gupta.txt",
+    "resumes/resume_pooja_iyer.docx",
+    "resumes/resume_sanjay_kulkarni.pdf",
+    "resumes/resume_anita_dsouza.txt",
+    "resumes/resume_imran_sheikh.docx"
+  ],
+  "ml_engineer.txt": [
+    "resumes/resume_karan_singh.pdf",
+    "resumes/resume_aditi_rao.txt",
+    "resumes/resume_nikhil_verma.docx",
+    "resumes/resume_shreya_bose.pdf",
+    "resumes/resume_vivek_nambiar.txt"
+  ],
+  "data_engineer.txt": [
+    "resumes/resume_rahul_iyer.docx",
+    "resumes/resume_neelam_choudhary.pdf",
+    "resumes/resume_joseph_mathew.txt",
+    "resumes/resume_aisha_khan.docx",
+    "resumes/resume_tarun_malhotra.pdf"
+  ],
+  "frontend_react.txt": [
+    "resumes/resume_divya_sharma.txt",
+    "resumes/resume_ishaan_kapoor.docx",
+    "resumes/resume_rhea_banerjee.pdf",
+    "resumes/resume_manoj_pillai.txt",
+    "resumes/resume_sneha_kulkarni.docx"
+  ],
+  "devops_engineer.txt": [
+    "resumes/resume_vikram_patel.pdf",
+    "resumes/resume_geeta_reddy.txt",
+    "resumes/resume_omar_farooq.docx",
+    "resumes/resume_deepak_yadav.pdf",
+    "resumes/resume_nisha_agarwal.txt"
+  ],
+  "ios_engineer.txt": [
+    "resumes/resume_kabir_malhotra.docx",
+    "resumes/resume_leela_menon.pdf"
+  ]
+}

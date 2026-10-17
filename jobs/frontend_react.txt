@@ -1,0 +1,7 @@
+Title: Frontend Engineer
+Must-have skills: React, TypeScript
+Minimum years: 2
+
+We are hiring a frontend engineer to build product UI in React and TypeScript.
+The candidate must have 2+ years of experience with React and TypeScript.
+The work covers dashboards, CSS, design systems, and customer-facing web apps.

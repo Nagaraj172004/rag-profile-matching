@@ -1,0 +1,16 @@
+Anita Dsouza
+Backend Engineer | anita.dsouza@email.com
+
+Summary
+Backend Engineer with 5 years of experience in Python and Django. Raised Django API test coverage to 90 percent with pytest.
+
+Skills
+Python, Django, pytest, PostgreSQL
+
+Experience
+Brightpath - Backend Engineer (2021-present)
+Raised Django API test coverage to 90 percent with pytest.
+Daily work uses Python, Django, pytest, PostgreSQL.
+
+Education
+B.Tech Computer Science, Goa University, 2020

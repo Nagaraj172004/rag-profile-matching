@@ -1,0 +1,7 @@
+Title: Machine Learning Engineer
+Must-have skills: Python, PyTorch
+Minimum years: 3
+
+We are hiring a machine learning engineer to train and serve PyTorch models.
+The candidate must have 3+ years of Python and hands-on PyTorch experience.
+The role covers ranking, NLP, deep learning, and production machine learning.

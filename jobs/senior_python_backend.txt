@@ -1,0 +1,7 @@
+Title: Senior Python Backend Engineer
+Must-have skills: Python, Django
+Minimum years: 5
+
+We need a backend engineer to design REST APIs in Python and Django backed by PostgreSQL.
+The candidate must have 5+ years of Python and production Django experience.
+The work covers Docker deploys, query tuning, and reliable order or payment services.

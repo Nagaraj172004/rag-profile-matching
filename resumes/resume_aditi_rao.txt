@@ -1,0 +1,16 @@
+Aditi Rao
+Machine Learning Engineer | aditi.rao@email.com
+
+Summary
+Machine Learning Engineer with 4 years of experience in Python and PyTorch. Lifted recommendation click-through by 6 percent with PyTorch.
+
+Skills
+Python, PyTorch, TensorFlow, Machine Learning
+
+Experience
+Reco Labs - Machine Learning Engineer (2022-present)
+Lifted recommendation click-through by 6 percent with PyTorch.
+Daily work uses Python, PyTorch, TensorFlow, Machine Learning.
+
+Education
+M.Tech Artificial Intelligence, IISc, 2022

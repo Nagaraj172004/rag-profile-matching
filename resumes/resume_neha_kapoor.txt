@@ -1,0 +1,16 @@
+Neha Kapoor
+Java Developer | neha.kapoor@email.com
+
+Summary
+Java Developer with 6 years of experience in Java and Spring Boot. Designed order-processing services in Java and Spring Boot.
+
+Skills
+Java, Spring Boot, Kafka, MySQL
+
+Experience
+Northwind - Java Developer (2020-present)
+Designed order-processing services in Java and Spring Boot.
+Daily work uses Java, Spring Boot, Kafka, MySQL.
+
+Education
+B.Tech Computer Science, DTU, 2019

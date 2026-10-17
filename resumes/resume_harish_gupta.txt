@@ -1,0 +1,16 @@
+Harish Gupta
+Senior Backend Engineer | harish.gupta@email.com
+
+Summary
+Senior Backend Engineer with 11 years of experience in Python and Django. Runs 2 million Django background jobs a day with Celery.
+
+Skills
+Python, Django, PostgreSQL, Celery, AWS
+
+Experience
+Helio - Senior Backend Engineer (2015-present)
+Runs 2 million Django background jobs a day with Celery.
+Daily work uses Python, Django, PostgreSQL, Celery, AWS.
+
+Education
+M.Tech Computer Science, IIT Bombay, 2014

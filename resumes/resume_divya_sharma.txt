@@ -1,0 +1,16 @@
+Divya Sharma
+Frontend Engineer | divya.sharma@email.com
+
+Summary
+Frontend Engineer with 4 years of experience in React and TypeScript. Rebuilt the settings product in React and TypeScript.
+
+Skills
+React, TypeScript, CSS, Python
+
+Experience
+Pixel Lane - Frontend Engineer (2022-present)
+Rebuilt the settings product in React and TypeScript.
+Daily work uses React, TypeScript, CSS, Python.
+
+Education
+B.Tech Computer Science, Manipal, 2021

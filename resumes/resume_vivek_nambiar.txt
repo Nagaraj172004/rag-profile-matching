@@ -1,0 +1,16 @@
+Vivek Nambiar
+Machine Learning Engineer | vivek.nambiar@email.com
+
+Summary
+Machine Learning Engineer with 7 years of experience in Python and PyTorch. Retrains production PyTorch models nightly on AWS.
+
+Skills
+Python, PyTorch, MLOps, AWS, Machine Learning
+
+Experience
+Helio AI - Machine Learning Engineer (2019-present)
+Retrains production PyTorch models nightly on AWS.
+Daily work uses Python, PyTorch, MLOps, AWS, Machine Learning.
+
+Education
+B.E. Computer Science, NIT Calicut, 2018

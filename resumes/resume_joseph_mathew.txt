@@ -1,0 +1,16 @@
+Joseph Mathew
+Data Engineer | joseph.mathew@email.com
+
+Summary
+Data Engineer with 4 years of experience in Python and Spark. Joined Kafka topics into Spark SQL tables for operations.
+
+Skills
+Python, Spark, Kafka, SQL, AWS
+
+Experience
+Cloudline - Data Engineer (2022-present)
+Joined Kafka topics into Spark SQL tables for operations.
+Daily work uses Python, Spark, Kafka, SQL, AWS.
+
+Education
+B.E. Computer Science, CUSAT, 2021

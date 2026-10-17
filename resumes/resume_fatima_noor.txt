@@ -1,0 +1,16 @@
+Fatima Noor
+QA Engineer | fatima.noor@email.com
+
+Summary
+QA Engineer with 4 years of experience in Selenium and Java. Covers checkout regression with Selenium and TestNG.
+
+Skills
+Selenium, Java, TestNG, JIRA
+
+Experience
+Pixel Lane - QA Engineer (2022-present)
+Covers checkout regression with Selenium and TestNG.
+Daily work uses Selenium, Java, TestNG, JIRA.
+
+Education
+B.Tech Computer Science, Jamia Millia Islamia, 2021

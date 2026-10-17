@@ -1,0 +1,16 @@
+Nagaraj
+Software Engineer | nagaraj@email.com
+
+Summary
+Software Engineer with 4 years of experience in Python and Django. Built Django REST APIs used by 50000 customers.
+
+Skills
+Python, Django, Flask, PostgreSQL, Docker
+
+Experience
+Acme Corp - Software Engineer (2022-present)
+Built Django REST APIs used by 50000 customers.
+Daily work uses Python, Django, Flask, PostgreSQL, Docker.
+
+Education
+B.Tech Computer Science, VTU, 2021

@@ -1,0 +1,16 @@
+Meera Krishnan
+Backend Engineer | meera.krishnan@email.com
+
+Summary
+Backend Engineer with 7 years of experience in Python and Django. Cut checkout latency by 40 percent on a Django payments API.
+
+Skills
+Python, Django, PostgreSQL, Docker, Redis
+
+Experience
+Acme Payments - Backend Engineer (2019-present)
+Cut checkout latency by 40 percent on a Django payments API.
+Daily work uses Python, Django, PostgreSQL, Docker, Redis.
+
+Education
+B.Tech Computer Science, NIT Trichy, 2018

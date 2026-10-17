@@ -1,0 +1,16 @@
+Geeta Reddy
+DevOps Engineer | geeta.reddy@email.com
+
+Summary
+DevOps Engineer with 5 years of experience in Kubernetes and Terraform. Moved staging onto Kubernetes using Terraform modules.
+
+Skills
+Kubernetes, Terraform, AWS, Docker, Jenkins
+
+Experience
+Acme - DevOps Engineer (2021-present)
+Moved staging onto Kubernetes using Terraform modules.
+Daily work uses Kubernetes, Terraform, AWS, Docker, Jenkins.
+
+Education
+B.E. Information Technology, JNTU, 2020

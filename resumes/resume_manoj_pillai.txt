@@ -1,0 +1,16 @@
+Manoj Pillai
+Frontend Engineer | manoj.pillai@email.com
+
+Summary
+Frontend Engineer with 2 years of experience in React and TypeScript. Converted legacy pages to React and TypeScript.
+
+Skills
+React, TypeScript, HTML, CSS
+
+Experience
+Pixel Lane - Frontend Engineer (2024-present)
+Converted legacy pages to React and TypeScript.
+Daily work uses React, TypeScript, HTML, CSS.
+
+Education
+B.Tech Computer Science, CUSAT, 2023

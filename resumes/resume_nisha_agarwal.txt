@@ -1,0 +1,16 @@
+Nisha Agarwal
+Site Reliability Engineer | nisha.agarwal@email.com
+
+Summary
+Site Reliability Engineer with 7 years of experience in Kubernetes and Terraform. Added Prometheus alerts for every Kubernetes namespace.
+
+Skills
+Kubernetes, Terraform, Prometheus, Grafana
+
+Experience
+Helio - Site Reliability Engineer (2019-present)
+Added Prometheus alerts for every Kubernetes namespace.
+Daily work uses Kubernetes, Terraform, Prometheus, Grafana.
+
+Education
+M.Tech Computer Science, IIT Delhi, 2018

@@ -1,0 +1,7 @@
+Title: Data Engineer
+Must-have skills: Python, Spark, SQL
+Minimum years: 3
+
+We need a data engineer to build Spark and SQL pipelines orchestrated with Airflow.
+The candidate must have 3+ years of Python plus production Spark and SQL.
+The role covers warehouses, streaming data, and reliable daily builds.

@@ -1,0 +1,7 @@
+Title: DevOps Engineer
+Must-have skills: Kubernetes, Terraform
+Minimum years: 4
+
+We need a DevOps engineer to run Kubernetes clusters defined with Terraform.
+The candidate must have 4+ years of experience with Kubernetes and Terraform.
+The role covers CI/CD, Linux infrastructure, and production reliability.
